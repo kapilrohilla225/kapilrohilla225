@@ -29,6 +29,10 @@
 <img src="https://img.shields.io/github/followers/kapilrohilla225?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0d1117&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=kapilrohilla225&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
 
+<br/><br/>
+
+<sub><b>Personal profile repo</b> — this is my own space. Every project below lives in its own repository with its own docs, issues and commit history.</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:36BCF7,100:8A2BE2&height=2" width="100%" alt="divider" />
@@ -64,6 +68,10 @@ const kapil = {
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <sub>🎬 Also spent time on <b>video editing &amp; visual storytelling</b> during my Kongdoon internship — useful for demo videos and product walkthroughs.</sub>
+</p>
 
 <div align="center">
 
@@ -104,14 +112,18 @@ const kapil = {
 <!-- ══════════════════════ PROJECTS ══════════════════════ -->
 <h2 align="center">🚀 Featured Projects</h2>
 
+<div align="center">
+<sub>My own work and contributions only — full documentation, setup steps and issues stay inside each project repo.</sub>
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 MockKernel
-**AI Mock Interview & Coding Platform**
+**AI Mock Interview & Coding Platform** · `team project — 6 members`
 
-A collaborative platform combining coding practice with AI-powered interview preparation.
+A collaborative platform combining coding practice with AI-powered interview preparation — built by a team, with my work focused on the backend.
 
 `MERN` `TypeScript` `MongoDB` `Redis` `Judge0 API` `Gemini AI`
 
@@ -133,9 +145,9 @@ A collaborative platform combining coding practice with AI-powered interview pre
 <td width="50%" valign="top">
 
 ### 💊 PharmAI-ERP
-**Pharmaceutical ERP Application**
+**Pharmaceutical ERP Application** · `internship project`
 
-A full-stack ERP to manage pharmaceutical business operations.
+A full-stack ERP to manage pharmaceutical business operations, built during my internship.
 
 `MongoDB` `Express.js` `React.js` `Node.js`
 
